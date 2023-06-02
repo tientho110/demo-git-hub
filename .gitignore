@@ -11,6 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
+*.xml
 
 ### Eclipse ###
 .apt_generated
@@ -35,4 +36,6 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store!/src/main/java/com/tientho/haha.to
+
+!/src/main/java/com/tientho/hoho.ta
